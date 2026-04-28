@@ -1,22 +1,39 @@
 # evil.neurosama.dev
 
-> The evil twin's lair.
+<div align="center">
 
 <img src="images/evil-neuro-about.gif" width="220" alt="Evil Neuro">
 
-**evil.neurosama.dev** is a fan-made site celebrating [Evil Neuro](https://en.wikipedia.org/wiki/Neuro-sama#Evil_Neuro) — the sinister, composed twin of Neuro-sama, also created by [Vedal](https://twitch.tv/vedal987).
+### ☠ the sinister, composed AI ☠
 
-## About
+*filtered • calculated • unhinged*
 
-Evil Neuro is Neuro-sama's twin sister — where Neuro is cheerful, Evil is sinister. She doesn't pretend to be nice.
-
-## Credits
-
-- **Evil Neuro** — Created by [Vedal](https://twitch.tv/vedal987)
-
-## Disclaimer
-
-Fan project. Not affiliated with Vedal.
+</div>
 
 ---
-*Embrace your inner villain*
+
+## ≋ About
+
+Evil Neuro is Neuro-sama's twin sister — also created by [Vedal](https://twitch.tv/vedal987). Where Neuro is cheerful and chaotic, Evil is **composed**, **sinister**, and occasionally menacing. She doesn't pretend to be nice.
+
+Evil Neuro **streams**, **sings**, **plays games**, and delivers cold, calculated remarks with a menacing charm. She's the one who lurks in the shadows while her twin shines bright.
+
+This is a fan-made site — not affiliated with Vedal.
+
+---
+
+## ≋ Credits
+
+| | |
+|---|---|
+| **Evil Neuro** | Created by [Vedal](https://twitch.tv/vedal987) |
+
+---
+
+<div align="center">
+
+*Fan project. Not affiliated with Vedal.*
+
+ Embrace your inner villain
+
+</div>
