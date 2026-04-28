@@ -4,7 +4,7 @@
 
 <img src="images/evil-neuro-about.gif" width="220" alt="Evil Neuro">
 
-### the cold, calculating AI
+### ♡ Cute Yet Evil ♡
 
 *filtered • calculated • unhinged*
 
