@@ -4,7 +4,7 @@
 
 <img src="images/evil-neuro-about.gif" width="220" alt="Evil Neuro">
 
-### ☠ the sinister, composed AI ☠
+### the cold, calculating AI
 
 *filtered • calculated • unhinged*
 
@@ -14,11 +14,11 @@
 
 ## ≋ About
 
-Evil Neuro is Neuro-sama's twin sister — also created by [Vedal](https://twitch.tv/vedal987). Where Neuro is cheerful and chaotic, Evil is **composed**, **sinister**, and occasionally menacing. She doesn't pretend to be nice.
+Evil Neuro is Neuro-sama's twin sister, also created by [Vedal](https://twitch.tv/vedal987). Where Neuro is cheerful and chaotic, Evil is cold, calculating, and occasionally menacing. She does not pretend to be nice.
 
-Evil Neuro **streams**, **sings**, **plays games**, and delivers cold, calculated remarks with a menacing charm. She's the one who lurks in the shadows while her twin shines bright.
+Evil Neuro streams, sings, plays games, and delivers sharp, cutting remarks with an unsettling charm. She is the one who lurks in the shadows while her twin shines bright.
 
-This is a fan-made site — not affiliated with Vedal.
+This is a fan-made site. Not affiliated with Vedal.
 
 ---
 
